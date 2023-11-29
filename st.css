@@ -1,0 +1,56 @@
+.trend{
+    display: none;
+}
+.list{
+    display: none;
+}
+#menu{
+    display: flex;
+    border: 2px solid white;
+}
+#navbar{
+    justify-content: left;
+    text-align: left;
+    padding-left: 20px ;
+}
+#logo img{
+    display: none;
+   
+}
+#logo{
+    display: none;
+}
+.news{
+    display: block;
+    font-size: 0.5rem;
+}
+.news-time h1{
+    font-size: 0.8rem;
+    
+    }
+    #main{
+        flex-direction: column;
+    }
+    .gul{
+        display: none;
+    }
+   .gul figure{
+    display: flex;
+    font-size: 0.4rem;
+    text-align: left;
+    flex-direction: row;
+   }
+   .gul figure{
+  }
+  #hr{
+  
+    margin: 0px;
+ 
+    font-size: 0.0rem;
+
+  }
+  #hor{
+
+      justify-content: center;
+
+  }
